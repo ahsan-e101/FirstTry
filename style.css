@@ -1,0 +1,49 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar
+{
+    background-color: #002147;
+}
+.list li a
+{
+    color: white;
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+}
+.list li
+{
+    list-style: none;
+    
+}
+.list
+{
+    margin-left: 10px;
+    display: inline-block;
+}
+body .card1
+{
+    padding: 4px;
+    height: 300px;
+    width: 380px;
+    margin-top: 22px;
+    margin-left: 25px;
+    /* overflow: scroll; */
+}
+/* body .card2
+{
+    box-shadow:0px 4px 8px 0px black;
+    padding: 4px;
+    height: 250px;
+    width: 300px;
+    margin-top: 22px;
+    margin-left: 25px;
+    overflow: scroll;
+} */
+/* .cont1
+{
+    display: inline;
+} */
